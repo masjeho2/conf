@@ -171,30 +171,10 @@
         "outbound": "dns-out"
       },
       {
-        "inbound": [
-            "vmess-in",
-            "vmessgrpc-in",
-            "trojan-in",
-            "trojangrpc-in",
-            "vless-in",
-            "vlessgrpc-in",
-            "socks-in"
-            
-        ],
         "domain": "pagead2.googlesyndication.com",
         "outbound": "direct"
       },
       {
-        "inbound": [
-            "vmess-in",
-            "vmessgrpc-in",
-            "trojan-in",
-            "trojangrpc-in",
-            "vless-in",
-            "vlessgrpc-in",
-            "socks-in"
-            
-        ],
         "geosite": [
             
             "oisd-full",
