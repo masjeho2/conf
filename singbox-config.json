@@ -35,7 +35,7 @@
       "users": [
         {
           "name": "masjeho",
-          "uuid": "masjeho96",
+          "uuid": "gantiaku",
           "alterId": 0
 #vmess
         }
@@ -55,7 +55,7 @@
       "users": [
         {
           "name": "masjeho",
-          "uuid": "masjeho96",
+          "uuid": "gantiaku",
           "alterId": 0
 #vmess-grpc
         }
@@ -74,7 +74,7 @@
       "users": [
         {
           "name": "masjeho",
-          "password": "masjeho96"
+          "password": "gantiaku"
 #trojan
         }
       ],
@@ -91,7 +91,7 @@
       "users": [
         {
           "name": "masjeho",
-          "password": "masjeho96"
+          "password": "gantiaku"
 #trojan-grpc
         }
       ],
@@ -109,7 +109,7 @@
       "users": [
         {
           "name": "masjeho",
-          "uuid": "masjeho96"
+          "uuid": "gantiaku"
 #vless
         }
       ],
@@ -126,7 +126,7 @@
       "users": [
         {
           "name": "masjeho",
-          "uuid": "masjeho96"
+          "uuid": "gantiaku"
 #vless-grpc
         }
       ],
@@ -144,7 +144,7 @@
       "users": [
         {
           "username": "masjeho",
-          "password": "masjeho96"
+          "password": "gantiaku"
 #socks
         }
       ]
