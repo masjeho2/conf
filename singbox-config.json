@@ -115,7 +115,7 @@
       ],
       "transport": {
         "type": "ws",
-        "path": "/vless"
+        "path": "/vless-ws"
       }
     },
     {
